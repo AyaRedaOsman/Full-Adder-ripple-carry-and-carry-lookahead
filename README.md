@@ -1,39 +1,30 @@
-# BATMOBILE
-- This is a Repo for BATMOBILE Project for " Industrial Electronics " Subject.
+# Full adder
+- This is a Repo for Full Adder Design and Layout.
 
 # Features
-BATMOBILE is controlled in two ways: 
+Full Adder is implemented in two techniques: 
 
-- First, it is controlled using voice as We send voice instruction [ "move" - "back" - "right" - "left - "stop" ] from a smart phone recognized by 
-Google speech recognetion system and sent by UART.
+- Ripple Carry
 
-- Second Method: We designed a PCB to have a Joystick and bluetooth module. we send the sampled values of joystick by the bluetooth module to the car using UART.
+- Carry Lookahead
 
-
-# System Design
-![image](https://user-images.githubusercontent.com/68661639/218057238-3cb3cea2-ab03-448e-8a87-1d802a718bee.png)
-
-# Programming
-- Batmobile is controlled using Atmega328p Microcontroller.
-
-## Divide and Conquer
-![image](https://user-images.githubusercontent.com/68661639/218057724-5118be18-8d50-4d7b-8878-f8eda25a016e.png)
+# Full adder with Ripple Carry Design
+![1703792121593](https://github.com/AyaRedaOsman/Full-Adder-ripple-carry-and-carry-lookahead/assets/102327986/ca57ac02-46ce-4e3e-8fa8-97778b323ff3)
 
 
-# Mechanical Design
-- We have our own mechanical design for the car and printed it using Laser-cut.
-![image](https://user-images.githubusercontent.com/68661639/218057945-3c84dd5c-cc37-4251-b573-1013b78dcf01.png)
+# Full adder with Ripple Carry Layout
+![1703792123782](https://github.com/AyaRedaOsman/Full-Adder-ripple-carry-and-carry-lookahead/assets/102327986/d0bded11-e845-4022-aa80-400bac5cee8c)
 
 
+# Full adder with Carry Lookahead Design
+![1703792121720](https://github.com/AyaRedaOsman/Full-Adder-ripple-carry-and-carry-lookahead/assets/102327986/1be35e9b-3302-41d7-9d91-acf9397fb7b9)
 
-# Live The Journey with us
+
+# Full adder with Carry Lookahead Layout
+![1703792123977](https://github.com/AyaRedaOsman/Full-Adder-ripple-carry-and-carry-lookahead/assets/102327986/28c9c972-4b96-4698-884e-0a4281791b09)
 
 
 
-https://user-images.githubusercontent.com/68661639/218056512-bd46240f-cf86-4eb2-896d-3c4ce9b015dd.mp4
-
-
-https://user-images.githubusercontent.com/68661639/218055018-f3c22b01-4f3d-4fc2-ba58-83db455d854f.mp4
 
 
 
